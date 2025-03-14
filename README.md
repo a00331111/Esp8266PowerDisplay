@@ -1,0 +1,2 @@
+# Esp8266PowerDisplay
+通过配置ESP8266实时显示Homeassistant中的设备功率信息
